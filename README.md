@@ -4,8 +4,6 @@ I'm Eric.  I work in the software industry as an SDET, writing code for our CI/C
 
 As a voracious reader, **InkLeaf** is my small passion project - a utility for collecting quotes (or "leaves", as I call them) that doubles as a playground for experimenting with my favorite agentic tool, **Claude Code**. 
 
-AI has eliminated the coding barrier that once gatekept software.  The key differentiator among competitors will be products that excel in offering superior quality. This new world is extremely energizing for me. 
-
 A bit more about me:
 - 🔭 I’m currently working on **InkLeaf**
 - 🌱 I’m currently learning **agentic workflows and leveraging LLMs to make QA more accessible to non-specialists**
