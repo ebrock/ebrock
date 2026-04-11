@@ -5,7 +5,9 @@ I'm Eric.  I work in the software industry as an SDET, writing code for our CI/C
 As a voracious reader, **InkLeaf** is my small passion project - a utility for collecting quotes (or "leaves", as I call them) that doubles as a playground for experimenting with **Claude Code**. 
 
 A bit more about me:
-- 🔭 I’m currently working on **InkLeaf**
+- 🔭 I’m currently working on
+  - **InkLeaf**: a reading journal for the quotes you want to remember.
+  - **InkFrame**: a photo browser for Fuji shooters, organized around recipes.
 - 🌱 I’m currently learning **agentic workflows and leveraging LLMs to make QA more accessible to non-specialists**
 - 📫 If you want to chat, reach out at **eric@ericbrock.net** and let's talk!
 - ⚡ Fun fact: When I'm not reading 📖, you can find me in my apiary 🐝 or taking photographs 📸
