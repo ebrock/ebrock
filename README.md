@@ -6,8 +6,8 @@ As a voracious reader, **InkLeaf** is my small passion project - a utility for c
 
 A bit more about me:
 - 🔭 I’m currently working on
-  - **InkLeaf**: a reading journal for the quotes you want to remember.
-  - **InkFrame**: a photo browser for Fuji shooters, organized around recipes.
+  - [**InkLeaf**](https://ericbrock.net/inkleaf): a reading journal for the quotes you want to remember.
+  - [**InkFrame**](https://ericbrock.net/inkframe): a photo browser for Fuji shooters, organized around recipes.
 - 🌱 I’m currently learning **agentic workflows and leveraging LLMs to make QA more accessible to non-specialists**
 - 📫 If you want to chat, reach out at **eric@ericbrock.net** and let's talk!
 - ⚡ Fun fact: When I'm not reading 📖, you can find me in my apiary 🐝 or taking photographs 📸
